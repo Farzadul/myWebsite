@@ -1,0 +1,132 @@
+.firstNavBar{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+.firstNavBar li{
+	float: left;
+}
+
+.firstNavBar li a:not(.logo){
+	display: block;
+	text-decoration: none;
+	padding: 30px 5px 30px 5px;
+	color: black;
+}
+
+.firstNavBar li a:not(.logo):hover{
+	color: #856663;
+}
+
+.firstNavBar li:first-child{
+	padding: 0 600px 0 30px;
+}
+
+i{
+	color: green;
+}
+.sec2{
+	clear: both;
+}
+
+.secnav2{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background-color: #282e3f;
+	overflow: hidden;
+}
+
+.secnav2 li{
+	float: left;
+	padding: 10px;
+}
+
+.secnav2 a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+
+.secnav2 input:nth-child(2){
+	background-color: #457947;
+	border: 2px solid #457947;
+}
+.sec4{
+	text-align: center;
+	padding: 0 300px;
+}
+.sec5{
+	padding: 0 20px;
+}
+.sec5 div{
+	float: left;
+	width: 48%;
+	margin: 5px;
+}
+
+.sec6{
+	clear: both;
+	padding: 10px;
+}
+
+.sec6 .sec6div{
+	float: left;
+	width: 31%;
+	margin: 10px;
+}
+
+.sec7.sec7div{
+	clear: both;
+	padding: 10px;
+}
+
+.sec7 div{
+	float: left;
+	width: 31%;
+	margin: 10px;
+}
+.sec8{
+	clear: both;
+	padding: 10px;
+}
+.sec8 div{
+	float: left;
+	margin: 0 10px;
+} 
+.sec8 .sec1div1{
+	width: 28%;
+}
+.sec8 .sec1div2{
+	width: 18%;
+}
+.sec8 .sec1div3{
+	width: 13%;
+}
+.div13{
+width: 20%;
+}
+.sec9 div{
+	width: 50%;
+	float: left;
+}
+.Footer1{
+	background-color: gray;
+	clear: both;
+	overflow: hidden;
+}
+
+.Footer1 div{
+	float: left;
+	width: 20%;
+}
+.Footer1 li{
+	list-style-type: none;
+}
+.div3{
+	font-size: 20px;
+	color: white;
+}
